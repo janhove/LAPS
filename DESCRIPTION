@@ -1,0 +1,25 @@
+Package: LAPS
+Type: Package
+Title: Datasets for the 'Language Aptitude: Why and How to Assess it?' Project
+Version: 1.0.0
+Authors@R: c(
+    person("Jan", "Vanhove", email="janvanhove@gmail.com", role = c("aut", "cre")),
+    person("Raphael", "Berthele", role = c("aut")),
+    person("Carina", "Steiner", role = c("aut")),
+    person("Hansjakob", "Schneider", role = c("aut")),
+    person("Isabelle", "Udry", role = c("aut"))
+    )
+Maintainer: Jan Vanhove <janvanhove@gmail.com>
+Date: 2020-08-10
+Description: Datasets for the 'Language Aptitude' project conducted.
+    The datasets include a full-fledged dataset ('full_data') and a
+    smaller one with summary scores ('construct_scores'). Detailed
+    information about this project is available from https://osf.io/hstv7/.
+    There you'll also find a technical report that outlines what each 
+    variable in the dataset means.
+License: file LICENSE
+URL: https://github.com/janhove/LAPS
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 7.1.0
