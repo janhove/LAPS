@@ -9,7 +9,8 @@ The `LAPS` package for R bundles the data collected in the
 
 ## Installation
 
-You can install the `LAPS` package as follows.
+You can install the `LAPS` package as follows. (Make sure the `devtools`
+package is installed.)
 
 ``` r
 library(devtools)
