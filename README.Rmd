@@ -17,8 +17,9 @@ knitr::opts_chunk$set(
 
 The `LAPS` package for R bundles the data
 collected in the
-[LAPS](http://www.centre-multilingualism.ch/en/content/language-aptitude-why-and-how-assess-it)
+[LAPS](https://centre-plurilinguisme.ch/en/research/language-aptitude-why-and-how-assess-it) project
 (Institute of Multilingualism, Fribourg, Switzerland).
+The project's findings are reported in [_Individual differences in early instructed language learning: The role of language aptitude, cognition, and motivation_](https://doi.org/10.5281/zenodo.5378471) (edited by Raphael Berthele and Isabelle Udry).
 
 ## Installation
 
